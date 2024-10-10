@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+p:first-of-type {
+    text-align: right;
+    margin-bottom: 30px;
+}
+
+p:nth-of-type(2) {
+    text-align: right;
+    font-weight: bold;
+}
+
+p:nth-of-type(3) {
+    margin-bottom: 30px;
+}
+
+p:nth-of-type(4) {
+    font-style: italic;
+}
+
+p:last-of-type {
+    margin-top: 30px;
+}
+
+strong {
+    font-weight: bold;
+}
