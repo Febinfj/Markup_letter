@@ -33,3 +33,30 @@ p:last-of-type {
 strong {
     font-weight: bold;
 }
+
+ul {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    font-size: smaller;
+    margin-top: 40px;
+    color: gray;
+}
+
+
